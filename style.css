@@ -1,1 +1,74 @@
+html {
+    background: white;
+    font-family: 'Quicksand', sans-serif;
+}
 
+/*
+header {
+    background-color: #5faaa7;
+    position: fixed; Set the header to fixed position 
+    top: 0; Position the header at the top of the page 
+    width: 100%; Full width 
+    height: 80px;
+    border-bottom: 10px solid #c8bd00;
+    color: silver;
+    padding: 5px;
+}
+*/
+
+.navbar {
+    background-color: #5faaa7;
+    color: silver;
+    border-bottom: 10px solid #c8bd00;
+}
+.navbar li a {
+   color: black;
+}
+
+.navbar a:active {
+    color: silver;
+}
+
+body {
+    background: #fff;
+    color: #545454;
+    line-height: 1.5;
+}
+
+.about-me {
+    padding: 5px;
+}
+
+.personal-statement {
+    padding: 5px;
+}
+ .social-media li {
+    list-style-type: none;
+ }
+
+ .projects img {
+     width: 300px;
+     height: 300px;
+ }
+.contact a {
+    color: black;
+ }
+ 
+.contact a:hover {
+     color: silver;
+ }
+
+.footer {
+    background-color: #066781;
+    width: 100%; /* Full width */
+    height: 80px;
+  }
+
+.footer p {
+    color: silver;
+    text-align: center;
+}  
+/*
+font-family: 'Roboto', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Quicksand', sans-serif;
