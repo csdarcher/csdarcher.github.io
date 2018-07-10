@@ -3,19 +3,12 @@ html {
     font-family: 'Quicksand', sans-serif;
 }
 
-/*
-header {
-    background-color: #5faaa7;
-    position: fixed; Set the header to fixed position 
-    top: 0; Position the header at the top of the page 
-    width: 100%; Full width 
-    height: 80px;
-    border-bottom: 10px solid #c8bd00;
-    color: silver;
-    padding: 5px;
+body {
+    background: #fff;
+    color: #545454;
+    line-height: 1.5;
 }
-*/
-
+/* -- Navigation -- */
 .navbar {
     background-color: #5faaa7;
     color: silver;
@@ -29,19 +22,11 @@ header {
     background: silver;
 }
 
-body {
-    background: #fff;
-    color: #545454;
-    line-height: 1.5;
+.headshot img {
+    max-height: 40%;
+    max-width: 40%;
 }
 
-.about-me {
-    padding: 5px;
-}
-
-.personal-statement {
-    padding: 5px;
-}
  .social-media li {
     list-style-type: none;
     display: inline-block
@@ -52,8 +37,8 @@ body {
  }
 
  .projects img {
-     width: 300px;
-     height: 300px;
+     width: 90%;
+     height: 90%;
  }
 .contact a {
     color: black;
@@ -63,6 +48,7 @@ body {
      color: silver;
  }
 
+/* -- Footer  -- */ 
 .footer {
     background-color: #5faaa7;
     border-top: 10px solid #c8bd00;
