@@ -168,6 +168,10 @@ body {
   .portfolio {
     margin-bottom: -15px;
   }
+
+  .portfolio h2 {
+    padding: 30px;
+  }
   
   .portfolio .portfolio-item {
     position: relative;
@@ -243,6 +247,10 @@ body {
     padding-bottom: 5rem;
     background-color: #c29400;
     color: #fff;
+  }
+
+  .footer h2 {
+    padding: 30px;
   }
   
   .copyright {
