@@ -1,17 +1,21 @@
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Stalemate', cursive;
   font-family: 'Montserrat', sans-serif;
   font-family: 'Rubik', sans-serif;
   }
   
-  h1,
+  h1 {
+    font-family: 'Stalemate';
+    font-weight: 700;
+  }
+
   h2,
   h3,
   h4,
   h5,
   h6 {
     font-weight: 700;
-    font-family: 'Poppins';
+    font-family: 'Montserrat';
   }
   
   
@@ -61,7 +65,7 @@ body {
     padding-top: 1rem;
     padding-bottom: 1rem;
     font-weight: 700;
-    font-family: 'Poppins';
+    font-family: 'Montserrat';
   }
   
   #mainNav .navbar-brand {
@@ -140,7 +144,7 @@ body {
   
   header.masthead h2 {
     font-size: 1.3rem;
-    font-family: 'Rubik';
+    font-family: 'Montserrat';
   }
   
   @media (min-width: 992px) {
@@ -262,7 +266,7 @@ body {
   }
   
   a:focus, a:hover, a:active {
-    color: silver`;
+    color: silver;
   }
   
   .btn {
