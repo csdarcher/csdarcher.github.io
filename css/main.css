@@ -18,6 +18,9 @@ body {
     font-family: 'Montserrat';
   }
   
+  h4 {
+    margin-top: 20px;
+  }
   
   section {
     padding: 6rem 0;
@@ -70,6 +73,7 @@ body {
   
   #mainNav .navbar-brand {
     color: #fff;
+    font-family: 'Montserrat';
   }
   
   #mainNav .navbar-nav {
@@ -132,6 +136,7 @@ body {
     }
   }
   
+ 
   header.masthead {
     padding-top: calc(6rem + 72px);
     padding-bottom: 6rem;
@@ -171,6 +176,7 @@ body {
   
   .portfolio {
     margin-bottom: -15px;
+    padding-top: 10px;
   }
 
   .portfolio h2 {
