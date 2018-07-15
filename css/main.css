@@ -262,7 +262,7 @@ body {
   }
   
   a:focus, a:hover, a:active {
-    color: #c29400;
+    color: silver`;
   }
   
   .btn {
@@ -286,13 +286,13 @@ body {
   }
   
   .btn-primary {
-    background-color: #18BC9C;
-    border-color: #18BC9C;
+    background-color: #44929f;
+    border-color: #44929f;
   }
   
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background-color: #128f76;
-    border-color: #128f76;
+    background-color: #44929f;
+    border-color: #44929f;
   }
   
   .btn-secondary {
