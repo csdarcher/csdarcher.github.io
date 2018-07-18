@@ -279,12 +279,17 @@ body {
     border-width: 2px;
   }
   
+/*   
   .bg-primary {
     background-color: #fff !important;
-  }
+  } */
   
   .bg-secondary {
     background-color: #44929f !important;
+  }
+
+  .bg-tertiary {
+    background-color: #c29400;
   }
   
   .text-primary {
